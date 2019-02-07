@@ -1,4 +1,4 @@
-# Project Title
+# Java Projects
 
 Java Projects I Made During My Graduate Studies At Drexel
 
